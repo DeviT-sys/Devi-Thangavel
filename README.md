@@ -1,6 +1,16 @@
 # DEVI THANGAVEL
 
 🌟 **Welcome to my GitHub Profile!** 🌟
+# DEVI THANGAVEL
+
+🌟 **Hello and welcome to my GitHub Profile!** 🌟
+
+I am Devi Thangavel, a dedicated and driven professional with a solid background in data analysis and software testing. Over the years, I have honed my skills in extracting valuable insights from large datasets, developing automated test scripts, and ensuring data quality and consistency. My journey has led me to work with renowned organizations such as Cognizant (Google LLC Vendor) and Omni212 LLC, where I contributed to impactful projects and collaborated with diverse teams.
+
+### 📊 Data Analyst 
+
+With expertise in tools and technologies including SQL, BigQuery, GCP, Looker Studio and Power BI, I am passionate about transforming raw data into meaningful business insights. My commitment to continuous learning and professional development is demonstrated by my various certifications in Business Intelligence, Healthcare Analytics, Lean Six Sigma, and Data Analytics.
+
 
 ## 👩‍💼 Work Experience
 ### 🗓️ DATA ANALYST | Dec 2021 – Jul 2023
