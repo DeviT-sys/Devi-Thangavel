@@ -5,7 +5,7 @@
 
 🌟 **Hello and welcome to my GitHub Profile!** 🌟
 
-I am Devi Thangavel, a dedicated and driven professional with a solid background in data analysis and software testing. Over the years, I have honed my skills in extracting valuable insights from large datasets, developing automated test scripts, and ensuring data quality and consistency. My journey has led me to work with renowned organizations such as Cognizant (Google LLC Vendor) and Omni212 LLC, where I contributed to impactful projects and collaborated with diverse teams.
+I am Devi Thangavel, a dedicated and driven professional with a solid background in data analysis and software testing. Over the years, I have honed my skills in extracting valuable insights from large datasets, developing automated test scripts, and ensuring data quality and consistency. My journey has led me to work with renowned organizations such as Cognizant (Google LLC Vendor)  where I contributed to impactful projects and collaborated with diverse teams.
 
 ### 📊 Data Analyst 
 
